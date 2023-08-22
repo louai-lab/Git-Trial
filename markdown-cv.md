@@ -1,6 +1,6 @@
 # Personal information
-Louai Baghdadi
-Lebanese
+- Louai Baghdadi
+- Lebanese
 
 
 # Personality Traits
@@ -16,9 +16,9 @@ Lebanese
 
 # technical institute of tripoli, lebanon
 
-2019 - 2020 technical bachelor (LT) in management information
-2017 - 2019 Superior technical (TS2) management information
-2014 - 2017 technical baccalaureate (BT3) Information technology
+- 2019 - 2020 technical bachelor (LT) in management information
+- 2017 - 2019 Superior technical (TS2) management information
+- 2014 - 2017 technical baccalaureate (BT3) Information technology
 
 # Personal skills
 
@@ -27,17 +27,17 @@ Lebanese
 # Other Language(S) READING SPEAKING WRITING
 
 
-English Good Acceptable Acceptable
-French Good Fair Fair
+- English Good Acceptable Acceptable
+- French Good Fair Fair
 
 # Computer skills:
 
 
-▪ good command of Microsoft Office tools (Word, Excel, PowerPoint, Access)
-▪ Programming languages (HTML5, CSS, JAVASCRIPT, ALGORYTME, MYSQL , React , express.js)
+- good command of Microsoft Office tools (Word, Excel, PowerPoint, Access)
+- Programming languages (HTML5, CSS, JAVASCRIPT, ALGORYTME, MYSQL , React , express.js)
 
 # Interests & Activities:
 
-▪ Football, MMA (Mixed Martial Arts), Photography, social media, Learning new
+- Football, MMA (Mixed Martial Arts), Photography, social media, Learning new
 languages.
-▪ Volunteer Work at IMAN Scout.
+- Volunteer Work at IMAN Scout.
